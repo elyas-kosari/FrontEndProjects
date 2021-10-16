@@ -1,4 +1,5 @@
-# FrontEndProjects
+# Front End Projects
+These projects are daily challenges for me to practice my Front-End skills
 
 
 | # | Project Name
